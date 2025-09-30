@@ -55,12 +55,12 @@ Para visualizar este protótipo, você não precisa de nenhuma ferramenta de bui
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/agr3w/amostra_de_cores_tempalte.git
+    git clone https://github.com/agr3w/amostra_de_cores_template.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd amostra_de_cores_tempalte
+    cd amostra_de_cores_template
     ```
 
 3.  **Abra o arquivo `index.html`:**
